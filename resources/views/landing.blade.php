@@ -48,13 +48,13 @@
             <!-- Member 2 -->
             <div class="bg-white rounded-2xl shadow-lg p-6 text-center hover:scale-105 hover:shadow-2xl transition fade-in">
                 <div class="relative w-32 h-32 mx-auto mb-4">
-                    <img src="{{asset('images\dixie.jpg')}}" alt="Member 2" 
+                    <img src="{{asset('images\pariñas.jpg')}}" alt="Member 2" 
                          class="w-32 h-32 rounded-full border-4 border-transparent 
                                 bg-gradient-to-tr from-green-400 to-lime-400 p-1">
                 </div>
-                <h2 class="text-2xl font-semibold">Dixie Gampic</h2>
+                <h2 class="text-2xl font-semibold">Marlyn Pariñas</h2>
                 <p class="text-gray-500">Member 2</p>
-                <a href="https://deeceeooo.github.io/autobiography/" target="_blank" 
+                <a href="https://stvrlight-dot.github.io/bogarti/" target="_blank" 
                    class="mt-4 inline-block bg-gradient-to-r from-green-500 to-emerald-500 text-white px-5 py-2 rounded-lg shadow-md hover:opacity-90">
                    View Profile
                 </a>
