@@ -63,13 +63,13 @@
             <!-- Member 3 -->
             <div class="bg-white rounded-2xl shadow-lg p-6 text-center hover:scale-105 hover:shadow-2xl transition fade-in">
                 <div class="relative w-32 h-32 mx-auto mb-4">
-                    <img src="https://via.placeholder.com/150" alt="Member 3" 
+                    <img src="{{asset('images\Tala.jpg')}}" alt="Member 3" 
                          class="w-32 h-32 rounded-full border-4 border-transparent 
                                 bg-gradient-to-tr from-purple-400 to-pink-400 p-1">
                 </div>
-                <h2 class="text-2xl font-semibold">Member 3</h2>
-                <p class="text-gray-500">Role / Position</p>
-                <a href="https://example.com/member3" target="_blank" 
+                <h2 class="text-2xl font-semibold">Crystal Joy P. Paquiddan</h2>
+                <p class="text-gray-500">Member 3</p>
+                <a href="https://talastarjoy8-sketch.github.io/T/" target="_blank" 
                    class="mt-4 inline-block bg-gradient-to-r from-purple-500 to-pink-500 text-white px-5 py-2 rounded-lg shadow-md hover:opacity-90">
                    View Profile
                 </a>
