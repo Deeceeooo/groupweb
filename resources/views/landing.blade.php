@@ -78,13 +78,13 @@
             <!-- Member 4 -->
             <div class="bg-white rounded-2xl shadow-lg p-6 text-center hover:scale-105 hover:shadow-2xl transition fade-in">
                 <div class="relative w-32 h-32 mx-auto mb-4">
-                    <img src="https://via.placeholder.com/150" alt="Member 4" 
+                    <img src="{{asset('images\BJ.jpg')}}" alt="Member 4" 
                          class="w-32 h-32 rounded-full border-4 border-transparent 
                                 bg-gradient-to-tr from-red-400 to-orange-400 p-1">
                 </div>
-                <h2 class="text-2xl font-semibold">Member 4</h2>
-                <p class="text-gray-500">Role / Position</p>
-                <a href="https://example.com/member4" target="_blank" 
+                <h2 class="text-2xl font-semibold">Brian Allan F. Jornales</h2>
+                <p class="text-gray-500">Member 4</p>
+                <a href="https://bj0r.github.io/profile/" target="_blank" 
                    class="mt-4 inline-block bg-gradient-to-r from-red-500 to-orange-500 text-white px-5 py-2 rounded-lg shadow-md hover:opacity-90">
                    View Profile
                 </a>
