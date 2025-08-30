@@ -63,7 +63,7 @@
             <!-- Member 3 -->
             <div class="bg-white rounded-2xl shadow-lg p-6 text-center hover:scale-105 hover:shadow-2xl transition fade-in">
                 <div class="relative w-32 h-32 mx-auto mb-4">
-                    <img src="https://via.placeholder.com/150" alt="Member 3" 
+                    <img src="{{asset('images\Tala.jpg')}}" alt="Member 3" 
                          class="w-32 h-32 rounded-full border-4 border-transparent 
                                 bg-gradient-to-tr from-purple-400 to-pink-400 p-1">
                 </div>
